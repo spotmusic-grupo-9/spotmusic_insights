@@ -6,6 +6,8 @@ Este projeto faz parte do SpotMusic e tem um repositorio dedicado para documenta
 
 ## Pastas
 
+```
 .
 ├── api
 └── .word
+```
